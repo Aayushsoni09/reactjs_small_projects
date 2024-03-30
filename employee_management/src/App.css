@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.emp_list_wrapper{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 100px;
+}
+.employee_list_card_wrapper{
+  display: flex;
+  width: 500px;
+  justify-content: space-between;
+ 
+}
+button{
+  width: 90px;
+  height: 40px;
+}
+h5{
+  margin: 10px;
+  cursor: pointer;
+}
